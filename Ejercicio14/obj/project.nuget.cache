@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wY72Sj/kAsE=",
+  "success": true,
+  "projectFilePath": "/home/tomib4n/Documents/Programacion_I/Guia_Parcial_I/Ejercicio14/Ejercicio14.csproj",
+  "expectedPackageFiles": [
+    "/home/tomib4n/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.6/microsoft.aspnetcore.app.ref.8.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}

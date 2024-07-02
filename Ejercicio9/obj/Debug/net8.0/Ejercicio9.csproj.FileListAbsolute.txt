@@ -1,0 +1,4 @@
+/home/tomib4n/Documents/Programacion_I/Guia_Parcial_I/Ejercicio9/obj/Debug/net8.0/Ejercicio9.GeneratedMSBuildEditorConfig.editorconfig
+/home/tomib4n/Documents/Programacion_I/Guia_Parcial_I/Ejercicio9/obj/Debug/net8.0/Ejercicio9.AssemblyInfoInputs.cache
+/home/tomib4n/Documents/Programacion_I/Guia_Parcial_I/Ejercicio9/obj/Debug/net8.0/Ejercicio9.AssemblyInfo.cs
+/home/tomib4n/Documents/Programacion_I/Guia_Parcial_I/Ejercicio9/obj/Debug/net8.0/Ejercicio9.csproj.CoreCompileInputs.cache

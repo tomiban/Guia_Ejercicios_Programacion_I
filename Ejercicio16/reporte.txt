@@ -1,0 +1,5 @@
+Reporte de frutas
+Nombre	Importe	Cantidad
+Manzana	1500	4
+Pera	1200	5
+Banana	2150	7

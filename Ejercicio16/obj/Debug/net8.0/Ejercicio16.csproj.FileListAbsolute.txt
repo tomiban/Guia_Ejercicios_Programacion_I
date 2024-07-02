@@ -1,0 +1,17 @@
+/home/tomib4n/Documents/Programacion_I/Guia_Parcial_I/Ejercicio16/bin/Debug/net8.0/Ejercicio16
+/home/tomib4n/Documents/Programacion_I/Guia_Parcial_I/Ejercicio16/bin/Debug/net8.0/Ejercicio16.deps.json
+/home/tomib4n/Documents/Programacion_I/Guia_Parcial_I/Ejercicio16/bin/Debug/net8.0/Ejercicio16.runtimeconfig.json
+/home/tomib4n/Documents/Programacion_I/Guia_Parcial_I/Ejercicio16/bin/Debug/net8.0/Ejercicio16.dll
+/home/tomib4n/Documents/Programacion_I/Guia_Parcial_I/Ejercicio16/bin/Debug/net8.0/Ejercicio16.pdb
+/home/tomib4n/Documents/Programacion_I/Guia_Parcial_I/Ejercicio16/bin/Debug/net8.0/MemoryPack.Core.dll
+/home/tomib4n/Documents/Programacion_I/Guia_Parcial_I/Ejercicio16/obj/Debug/net8.0/Ejercicio16.csproj.AssemblyReference.cache
+/home/tomib4n/Documents/Programacion_I/Guia_Parcial_I/Ejercicio16/obj/Debug/net8.0/Ejercicio16.GeneratedMSBuildEditorConfig.editorconfig
+/home/tomib4n/Documents/Programacion_I/Guia_Parcial_I/Ejercicio16/obj/Debug/net8.0/Ejercicio16.AssemblyInfoInputs.cache
+/home/tomib4n/Documents/Programacion_I/Guia_Parcial_I/Ejercicio16/obj/Debug/net8.0/Ejercicio16.AssemblyInfo.cs
+/home/tomib4n/Documents/Programacion_I/Guia_Parcial_I/Ejercicio16/obj/Debug/net8.0/Ejercicio16.csproj.CoreCompileInputs.cache
+/home/tomib4n/Documents/Programacion_I/Guia_Parcial_I/Ejercicio16/obj/Debug/net8.0/Ejercici.644D4774.Up2Date
+/home/tomib4n/Documents/Programacion_I/Guia_Parcial_I/Ejercicio16/obj/Debug/net8.0/Ejercicio16.dll
+/home/tomib4n/Documents/Programacion_I/Guia_Parcial_I/Ejercicio16/obj/Debug/net8.0/refint/Ejercicio16.dll
+/home/tomib4n/Documents/Programacion_I/Guia_Parcial_I/Ejercicio16/obj/Debug/net8.0/Ejercicio16.pdb
+/home/tomib4n/Documents/Programacion_I/Guia_Parcial_I/Ejercicio16/obj/Debug/net8.0/Ejercicio16.genruntimeconfig.cache
+/home/tomib4n/Documents/Programacion_I/Guia_Parcial_I/Ejercicio16/obj/Debug/net8.0/ref/Ejercicio16.dll

@@ -1,0 +1,14 @@
+/home/tomib4n/Documents/Programacion_I/Guia_Parcial_I/Ejercicio8/bin/Debug/net8.0/Ejercicio8
+/home/tomib4n/Documents/Programacion_I/Guia_Parcial_I/Ejercicio8/bin/Debug/net8.0/Ejercicio8.deps.json
+/home/tomib4n/Documents/Programacion_I/Guia_Parcial_I/Ejercicio8/bin/Debug/net8.0/Ejercicio8.runtimeconfig.json
+/home/tomib4n/Documents/Programacion_I/Guia_Parcial_I/Ejercicio8/bin/Debug/net8.0/Ejercicio8.dll
+/home/tomib4n/Documents/Programacion_I/Guia_Parcial_I/Ejercicio8/bin/Debug/net8.0/Ejercicio8.pdb
+/home/tomib4n/Documents/Programacion_I/Guia_Parcial_I/Ejercicio8/obj/Debug/net8.0/Ejercicio8.GeneratedMSBuildEditorConfig.editorconfig
+/home/tomib4n/Documents/Programacion_I/Guia_Parcial_I/Ejercicio8/obj/Debug/net8.0/Ejercicio8.AssemblyInfoInputs.cache
+/home/tomib4n/Documents/Programacion_I/Guia_Parcial_I/Ejercicio8/obj/Debug/net8.0/Ejercicio8.AssemblyInfo.cs
+/home/tomib4n/Documents/Programacion_I/Guia_Parcial_I/Ejercicio8/obj/Debug/net8.0/Ejercicio8.csproj.CoreCompileInputs.cache
+/home/tomib4n/Documents/Programacion_I/Guia_Parcial_I/Ejercicio8/obj/Debug/net8.0/Ejercicio8.dll
+/home/tomib4n/Documents/Programacion_I/Guia_Parcial_I/Ejercicio8/obj/Debug/net8.0/refint/Ejercicio8.dll
+/home/tomib4n/Documents/Programacion_I/Guia_Parcial_I/Ejercicio8/obj/Debug/net8.0/Ejercicio8.pdb
+/home/tomib4n/Documents/Programacion_I/Guia_Parcial_I/Ejercicio8/obj/Debug/net8.0/Ejercicio8.genruntimeconfig.cache
+/home/tomib4n/Documents/Programacion_I/Guia_Parcial_I/Ejercicio8/obj/Debug/net8.0/ref/Ejercicio8.dll

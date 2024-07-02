@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "VoZcda/LJq0=",
+  "success": true,
+  "projectFilePath": "/home/tomib4n/Documents/Programacion_I/Guia_Parcial_I/Ejercicio15/Ejercicio15.csproj",
+  "expectedPackageFiles": [
+    "/home/tomib4n/.nuget/packages/memorypack/1.21.1/memorypack.1.21.1.nupkg.sha512",
+    "/home/tomib4n/.nuget/packages/memorypack.core/1.21.1/memorypack.core.1.21.1.nupkg.sha512",
+    "/home/tomib4n/.nuget/packages/memorypack.generator/1.21.1/memorypack.generator.1.21.1.nupkg.sha512",
+    "/home/tomib4n/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.6/microsoft.aspnetcore.app.ref.8.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
